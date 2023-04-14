@@ -1,3 +1,5 @@
-# Projetos em Python
+## Projetos em Python
 
-## Cada projeto tem seu arquivo README.md
+### Esse repositório foi feito para armazenar projetos de estudo e para uso próprio em python.
+
+### Cada projeto tera seu arquivo README.md no mesmo diretório que o arquivo do programa.
