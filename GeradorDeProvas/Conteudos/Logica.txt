@@ -1,0 +1,34 @@
+1. Uma caixa tem 24 bolas idênticas e de mesma cor, sendo que 4 delas são azuis. Qual é a porcentagem de bolas azuis na caixa?
+Gabarito = C
+(A) 12.5%
+(B) 16.7%
+(C) 25%
+(D) 33.3%
+
+2. Se uma pessoa tem 4 camisas e 3 calças diferentes, de quantas maneiras diferentes essa pessoa pode se vestir usando uma camisa e uma calça por vez?
+Gabarito = A
+(A) 12 maneiras diferentes
+(B) 16 maneiras diferentes
+(C) 21 maneiras diferentes
+(D) 24 maneiras diferentes
+
+3. Um grupo de amigos decidiu dividir igualmente uma pizza de 8 fatias. Se cada pessoa comeu 2 fatias, quantas pessoas estavam no grupo?
+Gabarito = B
+(A) 2 pessoas
+(B) 4 pessoas
+(C) 6 pessoas
+(D) 8 pessoas
+
+4. Se uma caixa tem 12 bolinhas vermelhas e 8 bolinhas azuis, qual é a probabilidade de se tirar uma bolinha vermelha ao acaso?
+Gabarito = D
+(A) 25%
+(B) 33.3%
+(C) 50%
+(D) 60%
+
+5. Em um grupo de pessoas, metade delas são mulheres e metade são homens. Se 1/4 das mulheres e 1/3 dos homens estão usando óculos, qual é a porcentagem de pessoas que estão usando óculos no grupo todo?
+Gabarito = C
+(A) 25%
+(B) 33.3%
+(C) 37.5%
+(D) 50%

@@ -1,0 +1,34 @@
+1. Se um bolo foi dividido em 8 pedaços iguais e 3 desses pedaços foram consumidos, qual fração do bolo ainda resta?
+Gabarito = (C) 5/8
+(A) 1/8
+(B) 2/8
+(C) 5/8
+(D) 6/8
+
+2. Se uma pizza foi dividida em 12 pedaços iguais e 2/3 desses pedaços foram consumidos, quantos pedaços de pizza ainda restam?
+Gabarito = (B) 4
+(A) 2
+(B) 4
+(C) 6
+(D) 8
+
+3. Um aquário está cheio com 3/5 de sua capacidade. Se forem adicionados mais 20 litros de água, qual fração da capacidade total do aquário será ocupada?
+Gabarito = (D) 2/3
+(A) 1/2
+(B) 3/5
+(C) 5/8
+(D) 2/3
+
+4. Se uma tarefa pode ser completada em 2/3 do tempo previsto e já se passaram 4 dias desde o início da tarefa, quantos dias ainda faltam para a tarefa ser concluída?
+Gabarito = (A) 2 dias
+(A) 2 dias
+(B) 3 dias
+(C) 4 dias
+(D) 6 dias
+
+5. Um recipiente contém 3/4 de um líquido. Se 1/3 desse líquido for retirado do recipiente, qual fração do líquido original ainda permanece no recipiente?
+Gabarito = (C) 1/2
+(A) 1/4
+(B) 1/3
+(C) 1/2
+(D) 2/3
